@@ -1,6 +1,6 @@
 ---
 
-In the workspace folder you can find the assignment solutions of [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing/) course in co-operation with [Universitat Pompeu Fabra](https://www.upf.edu/en/). This course grants no certificate, and is free and open-source.
+In the workspace folder you can find the assignment solutions of [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing/) course in co-operation with [Universitat Pompeu Fabra](https://www.upf.edu/en/). This course grants *no certificate*, and is free and open-source.
 
 ---
 
