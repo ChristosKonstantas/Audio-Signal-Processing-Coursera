@@ -2,6 +2,13 @@
 
 In the workspace folder you can find the assignment solutions of [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing/) course in co-operation with [Universitat Pompeu Fabra](https://www.upf.edu/en/). This course grants **no certificate**, and is free and open-source.
 
+**Proof of completion**
+
+![image](https://github.com/user-attachments/assets/9c21657e-e274-4763-9d8e-9578693de8a2)
+
+![image](https://github.com/user-attachments/assets/98eaa24a-afc6-4a38-ae77-9a9711c1ff75)
+
+
 ---
 
 sms-tools
